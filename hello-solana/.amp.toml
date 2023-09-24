@@ -1,0 +1,12 @@
+name = "hello-solana"
+version = "0.0.1"
+description = "A simple Solana example program"
+documentation = "https://docs.solana.com/getstarted/hello-world"
+repository = "https://github.com/amphitheatre-app/solana-examples.git"
+license = "Apache-2.0"
+license-file = "LICENSE"
+keywords = ["example", "solana", "getting-started"]
+categories = ["example"]
+
+[partners]
+solana = { version = "stable", registry = "catalog" }
