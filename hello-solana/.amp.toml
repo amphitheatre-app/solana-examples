@@ -8,5 +8,9 @@ license-file = "LICENSE"
 keywords = ["example", "solana", "getting-started"]
 categories = ["example"]
 
+[build]
+dockerfile = "Dockerfile"
+context = "hello-solana/"
+
 [partners]
 solana = { version = "stable", registry = "catalog" }
