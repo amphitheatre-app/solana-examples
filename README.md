@@ -27,6 +27,8 @@ Amphitheatre supports dozens of popular languages, development frameworks and Ia
 - **`C/C++`** - Writing on-chain programs using the C and C++ programming languages.
 - **`Solang`** - Written using Solang programming languages.
 
+In addition, a testnet is automatically deployed locally (optional).
+
 ## Examples
 
 In order to demonstrate what Amphitheatre can do, we have selected the following projects from the official and related sample projects for testing. These range from simple projects (such as Hello, World) to more complete projects (such as Break Solana Game with multiple components).
